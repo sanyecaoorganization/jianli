@@ -10,4 +10,5 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
+  <h2>你好</h2>
 </view>
